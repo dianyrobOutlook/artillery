@@ -1,0 +1,11 @@
+{
+  "name": "performance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "artillery run create.yml delete_task.yml"
+  },
+  "author": "Diana",
+  "license": "ISC"
+}
